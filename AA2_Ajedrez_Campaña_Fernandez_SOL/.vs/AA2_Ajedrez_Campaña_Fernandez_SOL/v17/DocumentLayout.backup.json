@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB7CE6E-3D43-490C-ADCC-E0041DE01716}|AA2_Ajedrez_Campa\u00F1a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez.vcxproj|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h",
+              "RelativeDocumentMoniker": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h",
+              "RelativeToolTip": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T09:08:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp",
+              "RelativeDocumentMoniker": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp",
+              "RelativeToolTip": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\Board.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T09:07:55.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp",
               "RelativeDocumentMoniker": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp",
               "ToolTip": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp",
               "RelativeToolTip": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-24T08:28:54.822Z",
+              "WhenOpened": "2025-03-24T08:48:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainn.cpp",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp",
+              "RelativeDocumentMoniker": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp",
+              "RelativeToolTip": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\mainn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T09:04:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "const.h",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h",
+              "RelativeDocumentMoniker": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\GitHub\\AA2_Ajedrez_Campa-a_Fernandez\\AA2_Ajedrez_Campa\u00F1a_Fernandez_SOL\\AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h",
+              "RelativeToolTip": "AA2_Ajedrez_Campa\u00F1a_Fernandez\\const.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T08:42:59.081Z",
               "EditorCaption": ""
             }
           ]

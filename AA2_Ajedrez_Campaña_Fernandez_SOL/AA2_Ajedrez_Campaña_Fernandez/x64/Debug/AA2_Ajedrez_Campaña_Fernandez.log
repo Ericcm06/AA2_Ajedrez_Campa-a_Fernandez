@@ -1,0 +1,55 @@
+﻿  mainn.cpp
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(5,18): error C2760: error de sintaxis: "=" no se esperaba aquí; se esperaba "expresión"
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(5,18): error C2440: 'inicializando': no se puede realizar la conversión de 'int' a 'char []'
+      C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(5,18):
+      No hay conversiones a tipos de matriz, aunque hay conversiones a referencias o punteros a matrices
+  
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(5,28): error C2059: error de sintaxis: ']'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(5,40): error C2059: error de sintaxis: ']'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(8,22): error C2059: error de sintaxis: '='
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(8,37): error C2059: error de sintaxis: ')'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(10,3): error C2059: error de sintaxis: 'for'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(10,17): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(10,23): error C2059: error de sintaxis: '='
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(10,38): error C2059: error de sintaxis: ')'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(12,18): error C2065: 'j': identificador no declarado
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(12,23): error C2015: hay demasiados caracteres en la constante
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(12,32): error C2059: error de sintaxis: ';'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(14,2): error C2059: error de sintaxis: '}'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(14,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,16): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,20): error C2143: error de sintaxis: falta ';' delante de '<'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,20): error C2059: error de sintaxis: '<'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,35): error C2143: error de sintaxis: falta ';' delante de '++'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,34): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,34): error C2086: 'int i': nueva definición
+      C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,18):
+      vea la declaración de 'i'
+  
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,35): error C2059: error de sintaxis: '++'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,37): error C2059: error de sintaxis: ')'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(17,2): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(17,2): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,2): error C2059: error de sintaxis: 'for'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,16): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,20): error C2143: error de sintaxis: falta ';' delante de '<'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,18): error C2086: 'int i': nueva definición
+      C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,18):
+      vea la declaración de 'i'
+  
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,20): error C2059: error de sintaxis: '<'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,35): error C2143: error de sintaxis: falta ';' delante de '++'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,34): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,34): error C2086: 'int i': nueva definición
+      C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(16,18):
+      vea la declaración de 'i'
+  
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,35): error C2059: error de sintaxis: '++'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(20,37): error C2059: error de sintaxis: ')'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(21,2): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(21,2): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(28,2): error C2059: error de sintaxis: 'return'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(29,1): error C2059: error de sintaxis: '}'
+C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\mainn.cpp(29,1): error C2143: error de sintaxis: falta ';' delante de '}'
