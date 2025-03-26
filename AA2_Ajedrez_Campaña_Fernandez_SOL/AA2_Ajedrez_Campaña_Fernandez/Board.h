@@ -3,4 +3,7 @@
 
 void initChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]);
 
-void viewChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]);
+void printChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]);
+
+Position getPiceByUser();
+//void userGetPice(setPiceByUser);

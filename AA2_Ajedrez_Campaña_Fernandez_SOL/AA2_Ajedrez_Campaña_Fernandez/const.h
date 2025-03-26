@@ -21,3 +21,5 @@
 #define BLACK_BISHOP 'b'
 #define BLACK_QUEEN 'q'
 #define BLACK_KING 'k'
+
+#define ASCII_WHITE_TO_BLACK 32

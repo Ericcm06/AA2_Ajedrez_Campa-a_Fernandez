@@ -44,7 +44,7 @@ void initChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]) {
 	chessBoard[BOARD_SIZE - 1][blackQueenXPosR] = WHITE_QUEEN;
 }
 
-void viewChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]) {
+void printChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]) {
 
 	std::cout << ' ' << ' ';
 	for (int i = 0; i < BOARD_SIZE; i++)
