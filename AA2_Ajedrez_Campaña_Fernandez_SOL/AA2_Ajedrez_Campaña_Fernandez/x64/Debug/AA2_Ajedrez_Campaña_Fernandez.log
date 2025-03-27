@@ -14,5 +14,3 @@ C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campañ
 C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,38): error C2065: 'userGetPice': identificador no declarado
 C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,68): error C2065: 'userGetPice': identificador no declarado
 C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,89): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(27,21): error C2146: error de sintaxis: falta ';' delante del identificador 'isGettingAPice'
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(34,22): error C2059: error de sintaxis: ')'

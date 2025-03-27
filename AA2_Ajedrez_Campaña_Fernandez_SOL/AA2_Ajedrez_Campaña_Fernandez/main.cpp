@@ -23,7 +23,7 @@ int main() {
 
             if (userGetPice.x < 1 || userGetPice.x > BOARD_SIZE || userGetPice.y < 1 || userGetPice.y > BOARD_SIZE)
             {
-                std::cout << "INPUT INVALIDO"
+                std::cout << "INPUT INVALIDO";
                     isGettingAPice = false;
             }
             else {
@@ -31,7 +31,7 @@ int main() {
 
             }
 
-            } while ();
+            } while (!isGettingAPice);
 
 
         printChessBoard(chessBoard); // Imprimir el tablero
