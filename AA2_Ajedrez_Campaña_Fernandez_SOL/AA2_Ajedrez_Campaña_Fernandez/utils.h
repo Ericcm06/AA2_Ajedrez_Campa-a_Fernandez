@@ -1,6 +1,7 @@
 #pragma once
-struct Position
-{
-	int x;
-	int y;
+
+/// Representa una coordenada (columna=x, fila=y) en 1..8
+struct Position {
+    int x;
+    int y;
 };

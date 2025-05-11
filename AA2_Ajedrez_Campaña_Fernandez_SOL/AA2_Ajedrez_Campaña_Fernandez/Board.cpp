@@ -1,63 +1,64 @@
 #include "const.h"
-#include "Utils.h"
+#include "utils.h"
+#include <iostream>
 
 void initChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]) {
-	for (int i = 0; i < BOARD_SIZE; i++) {
-		for (int j = 0; j < BOARD_SIZE; j++) {
-			//Colocar peones
-			if (j == BOARD_SIZE - 2) chessBoard[j][i] = WHITE_PAWN;
-			else if (j == 1) chessBoard[j][i] = BLACK_PAWN;
-			else chessBoard[j][i] = CHAR_BG_BOARD;
-		}
-	}
+    // Primero fondo y peones
+    for (int i = 0; i < BOARD_SIZE; ++i) {
+        for (int j = 0; j < BOARD_SIZE; ++j) {
+            if (j == BOARD_SIZE - 2)
+                chessBoard[j][i] = WHITE_PAWN;
+            else if (j == 1)
+                chessBoard[j][i] = BLACK_PAWN;
+            else
+                chessBoard[j][i] = CHAR_BG_BOARD;
+        }
+    }
 
-	const short rookXPosL = 0;
-	const short rookXPosR = BOARD_SIZE - 1;
-	const short knightXPosL = 1;
-	const short knightXPosR = BOARD_SIZE - 2;
-	const short bishopXPosL = 2;
-	const short bishopXPosR = BOARD_SIZE - 3;
+    // Posiciones fijas de torres, caballos, alfiles, rey y dama
+    const short R_L = 0;
+    const short R_R = BOARD_SIZE - 1;
+    const short N_L = 1;
+    const short N_R = BOARD_SIZE - 2;
+    const short B_L = 2;
+    const short B_R = BOARD_SIZE - 3;
+    const short K_X = 3;
+    const short Q_X = BOARD_SIZE - 4;
 
-	const short whiteKingXPosL = 3;
-	const short whiteQueenXPosR = BOARD_SIZE - 4;
-	const short blackKingXPosL = BOARD_SIZE - 4;
-	const short blackQueenXPosR = 3;
+    // Negras en fila 8 (índice 0)
+    chessBoard[0][R_L] = BLACK_ROOK;
+    chessBoard[0][R_R] = BLACK_ROOK;
+    chessBoard[0][N_L] = BLACK_KNIGHT;
+    chessBoard[0][N_R] = BLACK_KNIGHT;
+    chessBoard[0][B_L] = BLACK_BISHOP;
+    chessBoard[0][B_R] = BLACK_BISHOP;
+    chessBoard[0][K_X] = BLACK_KING;
+    chessBoard[0][Q_X] = BLACK_QUEEN;
 
-	//Colocar piezas negras
-	chessBoard[0][rookXPosL] = BLACK_ROOK;
-	chessBoard[0][rookXPosR] = BLACK_ROOK;
-	chessBoard[0][knightXPosL] = BLACK_KNIGHT;
-	chessBoard[0][knightXPosR] = BLACK_KNIGHT;
-	chessBoard[0][bishopXPosL] = BLACK_BISHOP;
-	chessBoard[0][bishopXPosR] = BLACK_BISHOP;
-	chessBoard[0][whiteKingXPosL] = BLACK_KING;
-	chessBoard[0][whiteQueenXPosR] = BLACK_QUEEN;
-
-	//Colocar piezas blancas
-	chessBoard[BOARD_SIZE - 1][rookXPosL] = WHITE_ROOK;
-	chessBoard[BOARD_SIZE - 1][rookXPosR] = WHITE_ROOK;
-	chessBoard[BOARD_SIZE - 1][knightXPosL] = WHITE_KNIGHT;
-	chessBoard[BOARD_SIZE - 1][knightXPosR] = WHITE_KNIGHT;
-	chessBoard[BOARD_SIZE - 1][bishopXPosL] = WHITE_BISHOP;
-	chessBoard[BOARD_SIZE - 1][bishopXPosR] = WHITE_BISHOP;
-	chessBoard[BOARD_SIZE - 1][blackKingXPosL] = WHITE_KING;
-	chessBoard[BOARD_SIZE - 1][blackQueenXPosR] = WHITE_QUEEN;
+    // Blancas en fila 1 (índice 7)
+    chessBoard[BOARD_SIZE - 1][R_L] = WHITE_ROOK;
+    chessBoard[BOARD_SIZE - 1][R_R] = WHITE_ROOK;
+    chessBoard[BOARD_SIZE - 1][N_L] = WHITE_KNIGHT;
+    chessBoard[BOARD_SIZE - 1][N_R] = WHITE_KNIGHT;
+    chessBoard[BOARD_SIZE - 1][B_L] = WHITE_BISHOP;
+    chessBoard[BOARD_SIZE - 1][B_R] = WHITE_BISHOP;
+    chessBoard[BOARD_SIZE - 1][K_X] = WHITE_KING;
+    chessBoard[BOARD_SIZE - 1][Q_X] = WHITE_QUEEN;
 }
 
 void printChessBoard(char chessBoard[BOARD_SIZE][BOARD_SIZE]) {
+    // Cabecera de columnas
+    std::cout << "  ";
+    for (int c = 1; c <= BOARD_SIZE; ++c)
+        std::cout << c << ' ';
+    std::cout << "\n";
 
-	std::cout << ' ' << ' ';
-	for (int i = 0; i < BOARD_SIZE; i++)
-	{
-		std::cout << i + 1 << ' ';
-	}
-
-	std::cout << std::endl;
-	for (int i = 0; i < BOARD_SIZE; i++) {
-		std::cout << BOARD_SIZE - i << ' ';
-		for (int j = 0; j < BOARD_SIZE; j++) {
-			std::cout << chessBoard[i][j] << ' ';
-		}
-		std::cout << std::endl;
-	}
+    // Filas 8?1
+    for (int r = 0; r < BOARD_SIZE; ++r) {
+        std::cout << (BOARD_SIZE - r) << ' ';
+        for (int c = 0; c < BOARD_SIZE; ++c) {
+            std::cout << chessBoard[r][c] << ' ';
+        }
+        std::cout << "\n";
+    }
 }

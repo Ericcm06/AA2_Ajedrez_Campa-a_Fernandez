@@ -1,16 +1,2 @@
 ﻿  main.cpp
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\board.h(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-  (compilando archivo de origen "main.cpp")
-  
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\board.h(8,10): error C2146: error de sintaxis: falta ';' delante del identificador 'getPiceByUser'
-  (compilando archivo de origen "main.cpp")
-  
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(13,18): error C2146: error de sintaxis: falta ';' delante del identificador 'userGetPice'
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(13,18): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(13,31): error C2065: 'userSetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(20,25): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(22,25): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,17): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,38): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,68): error C2065: 'userGetPice': identificador no declarado
-C:\Users\Eric\Documents\GitHub\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\AA2_Ajedrez_Campaña_Fernandez\main.cpp(24,89): error C2065: 'userGetPice': identificador no declarado
+  AA2_Ajedrez_Campaña_Fernandez.vcxproj -> C:\Users\alber\OneDrive\Desktop\ajedrez\AA2_Ajedrez_Campa-a_Fernandez\AA2_Ajedrez_Campaña_Fernandez_SOL\x64\Debug\AA2_Ajedrez_Campaña_Fernandez.exe
