@@ -201,7 +201,7 @@ static bool validateMove(const char b[BOARD_SIZE][BOARD_SIZE],
     return false;
 }
 
-// Bucle principal del juego: imprime tablero, pide movimientos, valida y ejecuta
+// Bucle principal del juego: imprime tablero, pide movimientos valida y ejecuta
 void gameLoop(char board[BOARD_SIZE][BOARD_SIZE]) {
     bool whiteTurn = true;  // true = turno de blancas, false = turno de negras
     bool gameOver = false; // se pone true cuando se captura un rey
